@@ -13,3 +13,10 @@ Este aplicativo utiliza visão computacional para identificar o sentimento de um
 - **Docker**: Plataforma para empacotamento e distribuição de aplicativos em contêineres.
   
 - **Inteligência Artificial**: Utilização de redes neurais convolucionais treinadas para reconhecimento de expressões faciais e classificação de emoções.
+
+## Autores
+
+- Vinicius Felipi - [viniciu-pereira](https://github.com/viniciu-pereira)
+- Andre Guerra - [AndreWar10](https://github.com/AndreWar10)
+- Vinicius Avila - [ViniciusAvila1](https://github.com/ViniciusAvila1)
+- Isabela Oliveira - [bodelha](https://github.com/bodelha)
