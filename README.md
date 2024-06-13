@@ -2,7 +2,7 @@
 
 ## App de Reconhecimento de Sentimentos
 
-Este aplicativo utiliza visão computacional para identificar o sentimento de uma pessoa com base em imagens capturadas pela câmera de um dispositivo móvel. Ele utiliza redes neurais convolucionais treinadas para reconhecer expressões faciais e classificar suas emoções.
+Este aplicativo utiliza visão computacional para identificar o sentimento de uma pessoa com base em imagens capturadas pela câmera de um dispositivo móvel. Ele utiliza redes neurais treinadas para reconhecer expressões faciais e classificar suas emoções.
 
 ## Tecnologias Utilizadas
 
